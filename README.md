@@ -4,6 +4,9 @@
   A simple typing app. The goal was to create an app for 5 hour to test skills.
 </div>
 
-<img src="assets\previews\preview1.png" alt="Preview 1" width="750">
+<br><br><br>
 
-<img src="assets\previews\preview2.png" alt="Preview 1" width="750">
+<p align="middle" float="left">
+  <img src="assets\previews\preview1.png" alt="Preview 1" width="750">
+  <img src="assets\previews\preview2.png" alt="Preview 1" width="750">
+</p>
